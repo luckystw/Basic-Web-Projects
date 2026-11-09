@@ -85,7 +85,3 @@ Suggestions and improvements are welcome. To contribute:
 3. Commit your changes: `git commit -m "Add your feature"`
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a pull request
-
-## License
-
-No license has been specified yet. Consider adding one, such as the [MIT License](https://choosealicense.com/licenses/mit/), if you want others to reuse this code.
